@@ -1,1 +1,0 @@
-# Exercici-Entregable-C
